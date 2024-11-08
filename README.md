@@ -5,8 +5,8 @@
 DOI: https://doi.org/10.1101/2024.04.17.589997
 
 Contributors:
-* Nhan Nguyen 
 * Duy Nguyen 
+* Nhan Nguyen 
 * Truong Son Hy (Correspondent / PI) 
 
 **The architecture of the code draws inspiration from DPL (Diffusion model for Protein–Ligand complexes) developed by Nakata, S., Mori, Y. & Tanaka, S. End-to-end protein–ligand complex structure generation with diffusion-based generative models. BMC Bioinformatics 24, 233 (2023). https://doi.org/10.1186/s12859-023-05354-5**
